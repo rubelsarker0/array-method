@@ -34,3 +34,11 @@ const sum = numbers.reduce((preValue, currentValue) => {
 }, 0);
 
 console.log(sum);
+
+https://github.com/rubelsarker0/array-method.git
+
+https://github.com/rubelsarker0/array-method.git
+
+userList.filter(userItem => {
+	console.log(userItem);
+})
